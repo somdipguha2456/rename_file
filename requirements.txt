@@ -1,6 +1,4 @@
-# Requirements
+# Requirements:
 
-	1. To run this program one has to install python3
-		['Python3'](https://www.python.org/downloads/)
-		
-	2. If one want to rename files of another, then replace _"img"_ folder with that folder.
+1. To run this program one has to install python3
+2. If one want to rename files of another, then replace _"img"_ folder with that folder.

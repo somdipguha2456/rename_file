@@ -3,4 +3,6 @@ Rename the files excluding only numeric characters from the files name of a fold
 
 ### Getting Started
 
+
+
 Python script to rename files in a folder
